@@ -1,0 +1,10 @@
+/boot/grub/arm64-efi/hello.mod
+/snap/core20/1977/usr/lib/python3.8/__phello__.foo.py
+/snap/core20/1977/usr/lib/python3.8/__pycache__/__phello__.foo.cpython-38.pyc
+/snap/core20/2107/usr/lib/python3.8/__phello__.foo.py
+/snap/core20/2107/usr/lib/python3.8/__pycache__/__phello__.foo.cpython-38.pyc
+/usr/lib/grub/arm64-efi/hello.mod
+/usr/lib/python3.10/__phello__.foo.py
+/usr/lib/python3.10/__pycache__/__phello__.foo.cpython-310.pyc
+/usr/share/cowsay/cows/hellokitty.cow
+/usr/share/doc/gawk/examples/network/hello-serv.awk
